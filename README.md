@@ -602,13 +602,6 @@ ALLOWED_HOSTS=localhost,127.0.0.1
 
 ---
 
-## 👥 Team
-
-- **Abdullah Haroon**
-- **Zayan Amjad** 
-- **Ikhlas Ahmad**
-
-**Institution:** FAST NUCES Lahore
 
 ---
 
